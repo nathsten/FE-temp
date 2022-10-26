@@ -32,7 +32,7 @@
 
 - Vær kreativ! :)
 
-### 3. Visning av sponsorer og sammarbeidspartnere.
+### 3. Visning av sponsorer og sammarbeidspartnere (dette haster ikke).
 
 - Gjør det enkelt å vise frem sponsorer og sammarbeidspartnere i `footer'en`. Bla enigma, og eventult bedrifter på sikt.
 
