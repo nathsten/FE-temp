@@ -10,7 +10,7 @@ img {
 h1 {
     text-align: center;
     Font:"Kohinoor Gujarati";
-    color: white;
+    color: #e9f8ff;
 
    
 
@@ -25,7 +25,7 @@ body {
 footer>p {
     margin-top:3rem;
     text-align: center;
-    color:white;
+    color:#e9f8ff;
     font-weight: 600;
 }
 
@@ -33,4 +33,15 @@ a {
     color:#06ADF4;
     font-weight: 600;
     
+}
+
+.omDiv{
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+
+.om{
+    text-align: center;
+    color: #e9f8ff;
 }
