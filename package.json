@@ -1,0 +1,28 @@
+{
+  "name": "fantacy-fond",
+  "version": "1.0.0",
+  "description": "Program som henter data fra DN Fantacy Fond",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fintech-enigma/Fantacy-fond.git"
+  },
+  "author": "Nathaniel Stensen Fintch Enigma",
+  "license": "SEE LICENSE IN ./LICENSE",
+  "bugs": {
+    "url": "https://github.com/fintech-enigma/Fantacy-fond/issues"
+  },
+  "homepage": "https://github.com/fintech-enigma/Fantacy-fond#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.0",
+    "node-fetch": "^2.6.1",
+    "node-schedule": "^2.1.0"
+  }
+}
