@@ -1,6 +1,6 @@
 # Fintech Enigma midlertidig ladningsside
 
-![OneLinerDark](./bilder/OneLinerDark.svg)
+![OneLinerDark](./public/bilder/OneLinerDark.svg)
 
 ## Krav:
 
